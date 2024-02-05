@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "substitutionCypher", "substitutionCypher\substitutionCypher.pyproj", "{B726A77C-4379-4C66-85C6-311234F9DB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B726A77C-4379-4C66-85C6-311234F9DB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B726A77C-4379-4C66-85C6-311234F9DB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2207288-A46A-4EC5-ABED-2B84727A20FC}
+	EndGlobalSection
+EndGlobal
